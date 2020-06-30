@@ -1,3 +1,10 @@
+/*
+  Svg ANIMATION
+*/
+svg path,
+svg rect{
+  fill: black;
+}
 
 /* Attention seekers  */
 @-webkit-keyframes bounce {
